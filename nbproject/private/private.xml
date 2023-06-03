@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/84349/Desktop/PTPM_JAVA_SOFT2041_JDBC/src/Views/FrmQLNhanVien.java</file>
+            <file>file:/C:/Users/84349/Desktop/PTPM_JAVA_SOFT2041_JDBC/src/DomainModels/NhanVien.java</file>
+            <file>file:/C:/Users/84349/Desktop/PTPM_JAVA_SOFT2041_JDBC/src/Services/IManageChiTietSPService.java</file>
+            <file>file:/C:/Users/84349/Desktop/PTPM_JAVA_SOFT2041_JDBC/src/Views/FrmQLChiTietSP.java</file>
+            <file>file:/C:/Users/84349/Desktop/PTPM_JAVA_SOFT2041_JDBC/src/DomainModels/SanPham.java</file>
+            <file>file:/C:/Users/84349/Desktop/PTPM_JAVA_SOFT2041_JDBC/src/Views/FrmQLGioHang.java</file>
+            <file>file:/C:/Users/84349/Desktop/PTPM_JAVA_SOFT2041_JDBC/src/Services/IManageGioHangService.java</file>
+            <file>file:/C:/Users/84349/Desktop/PTPM_JAVA_SOFT2041_JDBC/src/Views/FrmQLKhachHang.java</file>
+            <file>file:/C:/Users/84349/Desktop/PTPM_JAVA_SOFT2041_JDBC/src/Repositories/NhanVienRepository.java</file>
+            <file>file:/C:/Users/84349/Desktop/PTPM_JAVA_SOFT2041_JDBC/src/Repositories/GioHangRepository.java</file>
+            <file>file:/C:/Users/84349/Desktop/PTPM_JAVA_SOFT2041_JDBC/src/Services/ManageChiTietSPService.java</file>
+            <file>file:/C:/Users/84349/Desktop/PTPM_JAVA_SOFT2041_JDBC/src/Services/ManageGioHangService.java</file>
+            <file>file:/C:/Users/84349/Desktop/PTPM_JAVA_SOFT2041_JDBC/src/Utilities/DBConnection.java</file>
+            <file>file:/C:/Users/84349/Desktop/PTPM_JAVA_SOFT2041_JDBC/src/Repositories/ChiTietSPRepository.java</file>
+            <file>file:/C:/Users/84349/Desktop/PTPM_JAVA_SOFT2041_JDBC/src/Repositories/IChiTietSPRepository.java</file>
+        </group>
+    </open-files>
+</project-private>
